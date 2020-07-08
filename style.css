@@ -1,0 +1,100 @@
+.header-nav{
+    margin-bottom: 50px;
+}
+.button-color{
+    background-color: #21B573;
+    color: white;
+    padding:7px 10px;
+   border-radius: 10px;
+   border: none;
+}
+.container{
+    margin-bottom: 60px;
+    width: 70%;
+}
+.first-contain{
+ 
+   padding-left: 5%;
+   padding-right: 5%;
+   background-color: #F0FFF0;
+   padding-bottom: 30px;
+   border-radius: 10px;
+}
+.image-illu{
+    width: 90%;
+    height: 90%;
+}
+
+.color-header{
+    color:#FC5B27;
+}
+
+span{
+    color: #21B573;
+}
+.middle-card img{
+    height:60px;
+    width: 60px;
+}
+.card-1,.card-2,.card-3,.card-4{
+    padding: 10px ;
+    margin-top: 10px;
+    border: none;
+    
+}
+.card-1{
+    background-color: #F8FFFB;
+}
+.card-2{
+    box-shadow: 5px 7px 10px gray;
+}
+.card-3{
+    background-color: #F8FFFB
+}
+.card-4{
+    background-color: #F8FFFB
+}
+.third-contain h1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.footer-img{
+    height: 20px;
+    width: 20px;
+}
+
+.third{
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 5px 7px 10px gray;
+}
+.third-img{
+    height: 230px;
+    width: 255px;
+    margin-left: 14px;
+    margin-top: 15px;
+}
+.fourth-contain{
+    text-align: center;
+    margin-bottom: 50px;
+    background-color: #FFFFFF;
+}
+.list{
+    list-style: none;
+}
+#footer-area{
+    background-color: #282531;
+    color: white;
+    font-size: 13px;
+    padding:40px 100px 10px 100px;
+    margin-bottom: 0;
+}
+footer{
+    text-align: center;
+    padding-top: 10%;
+}
